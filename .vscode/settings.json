@@ -1,0 +1,7 @@
+{
+    "eslint.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.provideLintTask": true,
+    "prettier.eslintIntegration": true,
+    "eslint.run": "onSave"
+}
